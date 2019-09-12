@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\c#\07.08.2019\exe 5\exe 5\exe 5\bin\Debug\exe 5.exe.config
+C:\Users\User\Desktop\c#\07.08.2019\exe 5\exe 5\exe 5\bin\Debug\exe 5.exe
+C:\Users\User\Desktop\c#\07.08.2019\exe 5\exe 5\exe 5\bin\Debug\exe 5.pdb
+C:\Users\User\Desktop\c#\07.08.2019\exe 5\exe 5\exe 5\obj\Debug\exe 5.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\c#\07.08.2019\exe 5\exe 5\exe 5\obj\Debug\exe 5.exe
+C:\Users\User\Desktop\c#\07.08.2019\exe 5\exe 5\exe 5\obj\Debug\exe 5.pdb
