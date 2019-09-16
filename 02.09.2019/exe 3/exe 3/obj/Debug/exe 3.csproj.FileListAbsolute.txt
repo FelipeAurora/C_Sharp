@@ -1,0 +1,5 @@
+C:\Users\EtecAB\Desktop\02.09.2019\exe 3\exe 3\bin\Debug\exe 3.exe.config
+C:\Users\EtecAB\Desktop\02.09.2019\exe 3\exe 3\bin\Debug\exe 3.exe
+C:\Users\EtecAB\Desktop\02.09.2019\exe 3\exe 3\bin\Debug\exe 3.pdb
+C:\Users\EtecAB\Desktop\02.09.2019\exe 3\exe 3\obj\Debug\exe 3.exe
+C:\Users\EtecAB\Desktop\02.09.2019\exe 3\exe 3\obj\Debug\exe 3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Felipe\Desktop\02.09.2019\exe 8\exe 8\bin\Debug\exe 8.exe.config
+C:\Users\Felipe\Desktop\02.09.2019\exe 8\exe 8\bin\Debug\exe 8.exe
+C:\Users\Felipe\Desktop\02.09.2019\exe 8\exe 8\bin\Debug\exe 8.pdb
+C:\Users\Felipe\Desktop\02.09.2019\exe 8\exe 8\obj\Debug\exe 8.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\02.09.2019\exe 8\exe 8\obj\Debug\exe 8.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\02.09.2019\exe 8\exe 8\obj\Debug\exe 8.exe
+C:\Users\Felipe\Desktop\02.09.2019\exe 8\exe 8\obj\Debug\exe 8.pdb

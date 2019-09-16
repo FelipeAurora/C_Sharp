@@ -1,0 +1,6 @@
+C:\Users\EtecAB\Desktop\02.09.2019\exe 6\exe 6\bin\Debug\exe 6.exe.config
+C:\Users\EtecAB\Desktop\02.09.2019\exe 6\exe 6\obj\Debug\exe 6.csprojResolveAssemblyReference.cache
+C:\Users\EtecAB\Desktop\02.09.2019\exe 6\exe 6\bin\Debug\exe 6.exe
+C:\Users\EtecAB\Desktop\02.09.2019\exe 6\exe 6\bin\Debug\exe 6.pdb
+C:\Users\EtecAB\Desktop\02.09.2019\exe 6\exe 6\obj\Debug\exe 6.exe
+C:\Users\EtecAB\Desktop\02.09.2019\exe 6\exe 6\obj\Debug\exe 6.pdb
